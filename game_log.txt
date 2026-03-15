@@ -1,4 +1,0 @@
---- OYUN BASLADI ---
-UPDATE → itemSpawned x=4 y=0
-UPDATE → objectMoved x=4 y=1
-UPDATE → objectMoved x=4 y=2
